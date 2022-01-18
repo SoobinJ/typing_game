@@ -1,0 +1,36 @@
+﻿  main.c
+  meanWord.c
+C:\Users\82104\source\repos\typing_game\typing_game\meanWord.c(56,21): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82104\source\repos\typing_game\typing_game\meanWord.c(57,25): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82104\source\repos\typing_game\typing_game\meanWord.c(70,33): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82104\source\repos\typing_game\typing_game\meanWord.c(110,23): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82104\source\repos\typing_game\typing_game\meanWord.c(138,37): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82104\source\repos\typing_game\typing_game\meanWord.c(151,21): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82104\source\repos\typing_game\typing_game\meanWord.c(44,29): warning C4101: 'score' :참조되지 않은 지역 변수입니다.
+C:\Users\82104\source\repos\typing_game\typing_game\meanWord.c(391,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82104\source\repos\typing_game\typing_game\meanWord.c(404,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  menu.c
+  prac.c
+C:\Users\82104\source\repos\typing_game\typing_game\prac.c(34,25): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82104\source\repos\typing_game\typing_game\prac.c(38,59): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82104\source\repos\typing_game\typing_game\prac.c(75,23): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82104\source\repos\typing_game\typing_game\prac.c(95,21): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82104\source\repos\typing_game\typing_game\prac.c(99,20): warning C4778: 'printf' : 서식 문자열 '% %'이(가) 종결되지 않았습니다.
+  randomWord.c
+C:\Users\82104\source\repos\typing_game\typing_game\randomWord.c(54,21): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82104\source\repos\typing_game\typing_game\randomWord.c(55,25): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82104\source\repos\typing_game\typing_game\randomWord.c(68,33): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82104\source\repos\typing_game\typing_game\randomWord.c(93,23): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82104\source\repos\typing_game\typing_game\randomWord.c(108,37): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82104\source\repos\typing_game\typing_game\randomWord.c(121,21): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82104\source\repos\typing_game\typing_game\randomWord.c(44,29): warning C4101: 'score' :참조되지 않은 지역 변수입니다.
+  score.c
+C:\Users\82104\source\repos\typing_game\typing_game\score.c(3,1): warning C4005: 'SNUM': 매크로 재정의
+C:\Users\82104\source\repos\typing_game\typing_game\team.h(8): message : 'SNUM'의 이전 정의를 참조하십시오.
+C:\Users\82104\source\repos\typing_game\typing_game\score.c(10,21): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  score2.c
+C:\Users\82104\source\repos\typing_game\typing_game\score2.c(3,1): warning C4005: 'SNUM': 매크로 재정의
+C:\Users\82104\source\repos\typing_game\typing_game\team.h(8): message : 'SNUM'의 이전 정의를 참조하십시오.
+C:\Users\82104\source\repos\typing_game\typing_game\score2.c(10,21): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  typing_game.vcxproj -> C:\Users\82104\source\repos\typing_game\Debug\typing_game.exe
